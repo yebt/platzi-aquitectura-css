@@ -18,3 +18,7 @@ Como divido el código, como construyo y nombro las clases
 
 [BEM](bem/index.md)
 [SOLID](SOLID/index.md)
+[DRY](DRY/index.md)
+[Inmutabilidad](inmutability/index.md)
+
+[BEM Work](bem_work/index.md)
